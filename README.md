@@ -1,4 +1,4 @@
-# franck-#Question 2
+
 #pennies for pay.py
 #Franck haba
 #b00125589
